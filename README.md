@@ -1,0 +1,2 @@
+# sycho-discord
+bot
